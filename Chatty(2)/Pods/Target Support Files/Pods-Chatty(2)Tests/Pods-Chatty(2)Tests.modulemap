@@ -1,0 +1,6 @@
+framework module Pods_Chatty_2_Tests {
+  umbrella header "Pods-Chatty(2)Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

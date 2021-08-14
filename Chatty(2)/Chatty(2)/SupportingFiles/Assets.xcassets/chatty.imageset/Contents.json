@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "BABB30BD-91DC-4999-ABF2-D0CF67E968CC_1_201_a.heic",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
